@@ -25,6 +25,7 @@
 
 <h1 align="center"> Final Result Mobile </h1>
 
+![myth2](https://user-images.githubusercontent.com/75745796/187696306-16717cd2-4d3d-4d27-9bbd-7da530b2485f.png)
 
-![myth2]https://user-images.githubusercontent.com/75745796/187694675-4652abfe-d77e-4828-aac5-b95bd9cd2d64.png
+
 
