@@ -1,10 +1,10 @@
 <h1 align="center"> MYTH - Landing Page </h1>
 
-<p align="center"> This Project i did a landing page for a future web site i want to create.  </p>
+<p align="center"> Own this Project i did a landing page for a future web site i want to create.  </p>
 
 <br>
 
-<h1 align="center"> The situation about Project </h1>
+<h1 align="center"> Progress about the Project </h1>
 
 <p align="center"> ✔️ First Version Completed ✔️ </h4>
 
