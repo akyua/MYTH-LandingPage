@@ -4,26 +4,32 @@
 
 <br>
 
-<h1 align="center"> Progress about the Project </h1>
+<h2 align="center"> Progress about the Project </h2>
 
-<p align="center"> ✔️ First Version Completed ✔️ </h4>
+<p align="center"> ✔️ First Version Completed ✔️ </p>
 
 <br>
 
-<h1 align="center"> Technologies Used </h1>
+<h2 align="center"> Technologies Used </h2>
 
 <p align="center"> HTML </p>
 <p align="center"> CSS </p>
 
 <br>
 
-<h1 align="center"> Final Result </h1>
+<h2 align="center"> See web site on live </h2>
+
+<p align="center"> http://akyua.github.io.myth/ </p>
+
+<br>
+
+<h2 align="center"> Final Result </h2>
 
 ![myth](https://user-images.githubusercontent.com/75745796/187694420-693abc76-28a7-4379-8489-fc4d22136ef9.png)
 
 <br>
 
-<h1 align="center"> Final Result Mobile </h1>
+<h2 align="center"> Final Result Mobile </h2>
 
 <div align="center">
 
