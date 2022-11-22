@@ -25,7 +25,11 @@
 
 <h1 align="center"> Final Result Mobile </h1>
 
+<div align="center">
+
 ![myth2](https://user-images.githubusercontent.com/75745796/187696306-16717cd2-4d3d-4d27-9bbd-7da530b2485f.png)
+  
+</div>
 
 
 
